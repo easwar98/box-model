@@ -1,0 +1,74 @@
+
+.container{
+    height:100px;
+    width:100%;
+    border-style: solid;
+    border-color:black;
+}
+
+/*------------Div-2-----------------*/
+.left{
+    height: 500px;
+    width: 49%;
+    background-color: blueviolet;
+    float:left;
+    margin-top: 2px;
+}
+.right{
+    height: 500px;
+    width:49%;
+    background-color: greenyellow;
+    float: right;
+    margin-top: 2px;
+}
+/*---------------Div-3--------------*/
+
+.left1{
+    height:100px;
+    width: 32.711%;
+    border: 1px;
+    border: solid;
+    border-color: black;
+    background:red;
+    float: left;
+}
+/*---------------Div-4------------*/
+.left2{
+    height: 100px;
+    width: 20%;
+    background-color: red;
+    float:left;
+}
+.left3{
+    height: 500px;
+    width: 60%;
+    background-color: blue;
+    float: left;
+}
+.right2{
+    height: 200px;
+    width: 20%;
+    background-color: red;
+    float: right;
+}
+/*---------------Div-5-------------------*/
+.left4{
+    height:100px;
+    width:20%;
+    margin-right:50px;
+    background-color: red;
+    float:left;
+}
+/*------------Div-6-----------------*/
+.left5{
+    height:100px;
+    width: 10%;
+    background-color:red;
+    float: left;
+}
+.right5{
+    height:100px;
+    width:70%;
+    background-color: black;
+    float:right;
+}

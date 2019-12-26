@@ -1,0 +1,35 @@
+.header{
+    height:100px;
+    width:100%;
+    border:solid;
+    border-color: black;
+    margin-top: 1px;
+}
+.container{
+	height: 700px;
+	width:100%;
+	border: solid;
+	border-color: black;
+}
+.sidebar{
+	height: 700px;
+	width:19%;
+	border: solid;
+	border-color: black;
+	float:left;
+	margin-top: 2px;
+}
+.side{
+	height: 227px;
+	border:solid;
+	border-color: black;
+	margin-bottom: 2px;
+}
+.center{
+	height: 700px;
+	width:60%;
+	border-color: black;
+	border:solid;
+    margin-top: 2px;
+    float:left;
+}
